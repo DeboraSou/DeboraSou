@@ -2,7 +2,7 @@
 
 Entusiasta em desenvolvimento de sistemas, atualmente cursando o curso técnico na área.
 
-- 📚 Estou focada em aprimorar minhas habilidades em desenvolvimento web e estou aprendendo ativamente HTML5, CSS3, JavaScript, React, Angular, PHP, Laravel, Java e MySQL.
+- 📚 Estou focada em aprimorar minhas habilidades em desenvolvimento web e estou aprendendo ativamente HTML5, CSS3, JavaScript, React, PHP e Laravel.
 
 - 🌟 Tenho um forte interesse na área de front-end e estou determinada a me aprofundar nesse campo, buscando sempre novos desafios e aprendizados.
 
