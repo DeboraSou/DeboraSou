@@ -10,6 +10,14 @@ Entusiasta em desenvolvimento de sistemas, atualmente cursando o curso técnico 
 
 - 🌐 Possuo habilidades intermediárias em inglês, o que me permite comunicar efetivamente e acessar recursos adicionais na área de tecnologia.
 
+## Contato
+
+<div style="display: inline_block>
+  <a href='mailto:"deborasou.oficial@gmail.com' target='_blank' rel='noopener noreferrer'>
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
 ## Análise de Estatísticas do GitHub e Principais Linguagens Utilizadas
 
 [![Debora GitHub stats](https://github-readme-stats.vercel.app/api?username=deborasou&show_icons=true&theme=radical&custom_title=Debora's%20GitHub%20Stats)](https://github.com/deborasou/github-readme-stats)
