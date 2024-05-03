@@ -1,31 +1,45 @@
-# Olá! Sou a Debora 👋
+<div align="center">
+  <h1>Olá! Sou a Debora 👋</h1>
+</div><br>
 
-Entusiasta em desenvolvimento de sistemas, atualmente cursando o curso técnico na área.
+<div align="center">
+  <div style="display: inline_block;"><br>
+    <img align="right" src="https://github.com/DeboraSou/DeboraSou/assets/161325653/2d6145ad-77bc-43d1-92b1-3d640557bf1e" alt="octocat-1714695097675" width="300";">
+  </div>
+    <div align="left">
+      <p style="text-color:blue;">Entusiasta em desenvolvimento de sistemas, atualmente cursando o curso técnico na área.</p>
+      <ul>
+        <li>📚 Estou focada em aprimorar minhas habilidades em desenvolvimento web e estou aprendendo ativamente HTML5, CSS3, JavaScript, React, PHP e Laravel.</li>
+        <li>🌟 Tenho um forte interesse na área de front-end e estou determinada a me aprofundar nesse campo, buscando sempre novos desafios e aprendizados.</li>
+        <li>🔍 Estou em busca de oportunidades de estágio para aplicar minhas habilidades e conhecimentos em um ambiente profissional, contribuir para projetos reais e continuar crescendo como desenvolvedora.</li>
+        <li>🌐 Possuo habilidades intermediárias em inglês, o que me permite comunicar efetivamente e acessar recursos adicionais na área de tecnologia.</li>
+      </ul>
+      <p>Para discutir oportunidades de colaboração, tirar dúvidas ou agendar uma entrevista, estou disponível para contato. Por favor, envie o e-mail e responderei o mais breve possível.</p>
+    </div>    
+  </div>
+</div><br>
 
-- 📚 Estou focada em aprimorar minhas habilidades em desenvolvimento web e estou aprendendo ativamente HTML5, CSS3, JavaScript, React, PHP e Laravel.
-
-- 🌟 Tenho um forte interesse na área de front-end e estou determinada a me aprofundar nesse campo, buscando sempre novos desafios e aprendizados.
-
-- 🔍 Estou em busca de oportunidades de estágio para aplicar minhas habilidades e conhecimentos em um ambiente profissional, contribuir para projetos reais e continuar crescendo como desenvolvedora.
-
-- 🌐 Possuo habilidades intermediárias em inglês, o que me permite comunicar efetivamente e acessar recursos adicionais na área de tecnologia.
-
-## Contato
-
-<div style="display: inline_block;">
+<div align="center" style="display: inline_block;">
   <a href="mailto:deborasou.oficial@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
+##
+<br>
+
 ## Análise de Estatísticas do GitHub e Principais Linguagens Utilizadas
 
-[![Debora GitHub stats](https://github-readme-stats.vercel.app/api?username=deborasou&show_icons=true&theme=radical&custom_title=Debora's%20GitHub%20Stats)](https://github.com/deborasou/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborasou&theme=radical&layout=compact&custom_title=Debora's%20Top%20Languages" alt="Top Langs" width="360" height="195">
+<div align="center" style="display: inline_block;">
+  
+  [![Debora GitHub stats](https://github-readme-stats.vercel.app/api?username=deborasou&show_icons=true&theme=radical&custom_title=Debora's%20GitHub%20Stats)](https://github.com/deborasou/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborasou&theme=radical&layout=compact&custom_title=Debora's%20Top%20Languages" alt="Top Langs" width="360" height="195">
+  
+</div>
 
 ## Tecnologias Utilizadas
 
-<div style="display: inline_block;">
+<div align="center" style="display: inline_block;">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
