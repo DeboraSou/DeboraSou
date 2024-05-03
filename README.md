@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Olá! Sou a Debora 👋</h1>
-</div><br>
+<h1 align="center">Olá! Sou a Debora 👋</h1>
 
 <div align="center">
   <div style="display: inline_block;"><br>
