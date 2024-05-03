@@ -17,9 +17,17 @@
   </div>
 </div><br>
 
+<!--
 <div align="center" style="display: inline_block;">
   <a href="mailto:deborasou.oficial@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+-->
+
+<div align="center" style="display: inline_block;">
+  <a href="mailto:deborasou.oficial@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" title="Gmail" src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
 
@@ -37,7 +45,7 @@
 </div>
 
 ## Tecnologias Utilizadas
-
+<!--
 <div align="center" style="display: inline_block;">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML | MDN" target="_blank" rel='noopener noreferrer'>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -75,6 +83,45 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
 </div>
+-->
+
+<div align="center" style="display: inline_block;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML | MDN" target="_blank" rel='noopener noreferrer'>
+    <img alt="HTML5" src="https://skillicons.dev/icons?i=html" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS | MDN" target="_blank" rel='noopener noreferrer'>
+    <img alt="CSS3" src="https://skillicons.dev/icons?i=css" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript | MDN" target="_blank" rel='noopener noreferrer'>
+    <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://react.dev/" title="React | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="React" src="https://skillicons.dev/icons?i=react" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://angular.dev/" title="Angular | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Angular" src="https://skillicons.dev/icons?i=angular" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.php.net/docs.php" title="PHP | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="PHP" src="https://skillicons.dev/icons?i=php" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://laravel.com/docs/11.x" title="Laravel | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Laravel" src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://docs.oracle.com/en/java/" title="Java | Oracle" target="_blank" rel='noopener noreferrer'>
+    <img alt="Java" src="https://skillicons.dev/icons?i=java" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://dev.mysql.com/doc/" title="MySQL | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</div><br>
 
 <!--
 **DeboraSou/DeboraSou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
