@@ -106,6 +106,10 @@
     <img alt="Angular" src="https://skillicons.dev/icons?i=angular" />
   </a>
     &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwindcss" />
+  </a>
+   &nbsp;&nbsp;
   <a href="https://www.php.net/docs.php" title="PHP | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="PHP" src="https://skillicons.dev/icons?i=php" />
   </a>
