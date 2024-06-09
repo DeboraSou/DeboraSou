@@ -106,11 +106,11 @@
     <img alt="PHP" src="https://skillicons.dev/icons?i=php" />
   </a>
     &nbsp;&nbsp;
-  <a href="#" title="C | DOC" target="_blank" rel='noopener noreferrer'>
+  <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" title="C | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="C" src="https://skillicons.dev/icons?i=c" />
   </a>
     &nbsp;&nbsp;
-  <a href="#" title="C++ | DOC" target="_blank" rel='noopener noreferrer'>
+  <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" title="C++ | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="C++" src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </div><br>
@@ -157,6 +157,10 @@
   <a href="https://docs.github.com/pt" title="GitHub | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
   </a>
+    &nbsp;&nbsp;
+  <a href="https://v4.vitejs.dev/" title="Vite | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Vite" src="https://skillicons.dev/icons?i=vite" />
+  </a>
 </div><br>
 
 ## Plataformas e Ambientes
@@ -182,7 +186,7 @@
 ## Ferramenta de Design
 
 <div align="center" style="display: inline_block;">   
-  <a href="https://www.figma.com" title="Figma |Site" target="_blank" rel='noopener noreferrer'>
+  <a href="https://www.figma.com" title="Figma | Site" target="_blank" rel='noopener noreferrer'>
     <img alt="Figma" src="https://skillicons.dev/icons?i=figma" />
   </a>
 </div><br>
