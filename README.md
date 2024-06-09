@@ -44,7 +44,7 @@
   
 </div>
 
-## Tecnologias Utilizadas
+## Linguagens de Programação
 <!--
 <div align="center" style="display: inline_block;">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML | MDN" target="_blank" rel='noopener noreferrer'>
@@ -98,6 +98,26 @@
     <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
   </a>
     &nbsp;&nbsp;
+  <a href="https://docs.oracle.com/en/java/" title="Java | Oracle" target="_blank" rel='noopener noreferrer'>
+    <img alt="Java" src="https://skillicons.dev/icons?i=java" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.php.net/docs.php" title="PHP | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="PHP" src="https://skillicons.dev/icons?i=php" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="#" title="C | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="C" src="https://skillicons.dev/icons?i=c" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="#" title="C++ | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="C++" src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+</div><br>
+
+## Bibliotecas e Frameworks
+
+<div align="center" style="display: inline_block;">  
   <a href="https://react.dev/" title="React | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="React" src="https://skillicons.dev/icons?i=react" />
   </a>
@@ -106,24 +126,64 @@
     <img alt="Angular" src="https://skillicons.dev/icons?i=angular" />
   </a>
     &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS | DOC" target="_blank" rel='noopener noreferrer'>
-    <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwindcss" />
-  </a>
-   &nbsp;&nbsp;
-  <a href="https://www.php.net/docs.php" title="PHP | DOC" target="_blank" rel='noopener noreferrer'>
-    <img alt="PHP" src="https://skillicons.dev/icons?i=php" />
-  </a>
-    &nbsp;&nbsp;
   <a href="https://laravel.com/docs/11.x" title="Laravel | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="Laravel" src="https://skillicons.dev/icons?i=laravel" />
   </a>
     &nbsp;&nbsp;
-  <a href="https://docs.oracle.com/en/java/" title="Java | Oracle" target="_blank" rel='noopener noreferrer'>
-    <img alt="Java" src="https://skillicons.dev/icons?i=java" />
+  <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwindcss" />
+  </a>
+</div><br>
+
+## Ferramentas de Desenvolvimento
+
+<div align="center" style="display: inline_block;">   
+  <a href="https://code.visualstudio.com/docs" title="VSCode | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://help.eclipse.org/latest/index.jsp" title="Eclipse | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Eclipse" src="https://skillicons.dev/icons?i=eclipse" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://developer.android.com/studio?hl=pt-br" title="Android Studio | Site" target="_blank" rel='noopener noreferrer'>
+    <img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.git-scm.com/doc" title="Git | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Git" src="https://skillicons.dev/icons?i=git" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://docs.github.com/pt" title="GitHub | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
+  </a>
+</div><br>
+
+## Plataformas e Ambientes
+
+<div align="center" style="display: inline_block;">   
+  <a href="#" title="Linux | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Linux" src="https://skillicons.dev/icons?i=linux" />
   </a>
     &nbsp;&nbsp;
   <a href="https://dev.mysql.com/doc/" title="MySQL | DOC" target="_blank" rel='noopener noreferrer'>
     <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://firebase.google.com/docs?hl=pt-br" title="Firebase | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://docs.arduino.cc/" title="Arduino | DOC" target="_blank" rel='noopener noreferrer'>
+    <img alt="Arduino" src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+</div><br>
+
+## Ferramenta de Design
+
+<div align="center" style="display: inline_block;">   
+  <a href="https://www.figma.com" title="Figma | Site" target="_blank" rel='noopener noreferrer'>
+    <img alt="Figma" src="https://skillicons.dev/icons?i=figma" />
   </a>
 </div><br>
 
