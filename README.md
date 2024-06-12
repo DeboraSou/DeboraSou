@@ -185,13 +185,11 @@
 
 ## Ferramenta de Design
 
-<!--
 <div align="center" style="display: inline_block;">   
   <a href="https://www.figma.com" title="Figma | Site" target="_blank" rel='noopener noreferrer'>
     <img alt="Figma" src="https://skillicons.dev/icons?i=figma" />
   </a>
 </div><br>
--->
 
 <!--
 **DeboraSou/DeboraSou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
